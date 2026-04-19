@@ -1,0 +1,3 @@
+Voice Recognition Web Platform: Upload, Train, and Predict Speakers
+
+A comprehensive full-stack voice recognition platform featuring a React.js frontend and a Python Flask backend. Users can upload audio samples, train custom speaker models, and predict speaker identities. Includes modular backend utilities for feature extraction, model training, and prediction, with organized data and image management. Ideal for research, demos, or as a foundation for advanced voice-based applications.

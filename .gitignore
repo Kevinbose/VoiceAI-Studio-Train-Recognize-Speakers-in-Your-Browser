@@ -1,0 +1,36 @@
+# .gitignore for Voice Recognition Web Platform
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Flask
+instance/
+.webassets-cache
+
+# Node
+node_modules/
+build/
+dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio & Data
+/audio/
+/backend/data/
+/backend/images/
+
+# Misc
+.env
+*.sqlite3
